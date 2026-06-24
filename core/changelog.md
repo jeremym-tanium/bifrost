@@ -1,3 +1,4 @@
+- fix: signal Bedrock max_output_tokens truncation on Responses API [@jeremym-tanium](https://github.com/jeremym-tanium)
 - fix: add GLM-5.2 to models supporting max reasoning effort [@is911](https://github.com/is911)
 - feat: add OpenCode gateway providers (Go, Zen) (thanks [@neta79](https://github.com/neta79)!)
 - feat: add advisor tool compatibility for Claude
